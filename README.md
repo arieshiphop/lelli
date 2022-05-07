@@ -1,2 +1,2 @@
 # lelli
-Lelli is configurable voice bot like Alexa or Siri. Add your own voice commands, with own custom bot voice response.
+Lelli is a voice bot like Alexa or Siri. Order commands, and she will help you.
